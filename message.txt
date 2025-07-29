@@ -1,1 +1,1 @@
-hah
+Welcome to Knetty - a simple tool \n to unlock useful services. \n You can choose one of the suggested configs.
