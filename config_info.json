@@ -1,0 +1,8 @@
+{
+  "config1.conf": {
+    "description": "Unlocks all services"
+  },
+  "config2.conf": {
+    "description": "Unlocks only discord, youtube,\n spotify and rutracker."
+  }
+}
